@@ -1,0 +1,9 @@
+apiVersion: v1
+name: techtrends
+description: colud native news sharing site
+keywords:
+- techtrends
+version: 1.0.0
+maintainers:
+- name: emen 
+  email: emen@example.com
